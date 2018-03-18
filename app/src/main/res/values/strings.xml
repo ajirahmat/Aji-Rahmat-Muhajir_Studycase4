@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aji Rahmat Muhajir_1202154150_studycase4</string>
+    <string-array name="mahasiswa">//array data mahasiswa
+        <item>Shabrina Fildza</item>
+        <item>Ayu Savitri</item>
+        <item>Liza Anggriani</item>
+        <item>Aji Rahmat Muhajir</item>
+        <item>Fanharil Ardian</item>
+        <item>Wildan Fauzan</item>
+        <item>Noval Cahyo</item>
+        <item>Rahayu</item>
+        <item>Ali Farhan</item>
+    </string-array>
+</resources>
